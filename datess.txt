@@ -1,0 +1,12 @@
+“Tomorrow:”+Now.AddDays(1.0).ToString(“dd/MM/yyyy”) +Environment.NewLine+“Yesterday:”+Now.AddDays(-1.0).ToString(“dd/MM/yyyy”)+Environment.NewLine+“NxtMonth:”+Now.AddMonths(1).ToString(“dd/MM/yyyy”)+
+Environment.NewLine+“PrevMonth:”+Now.AddMonths(-1).ToString(“dd/MM/yyyy”)+
+Environment.NewLine+“NxtYear:”+Now.AddYears(1).ToString(“dd/MM/yyyy”)+
+Environment.NewLine+“PrevYear:”+Now.AddYears(-1).ToString(“dd/MM/yyyy”)
+
+
+
+
+"<webctrl id='+Environment.NewLine+“PrevMonth:”+Now.AddMonths(-1).ToString(“dd/MM/yyyy”)+' tag='INPUT' type='text' />"
+
+
++Now.tostring("ddMMyyyyhhmmss")+".png"

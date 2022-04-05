@@ -1,0 +1,6 @@
+Enter the URL = https://demo.staidlogic.com/hrms/
+Enter the valid username=anil.kannapu@staidlogic.com
+Enter the valid Password=anil3728anil
+Click on login                        
+Enter the invalid username paats@staidlogic.com
+Enter the invalid password 2345

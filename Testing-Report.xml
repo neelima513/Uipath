@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test-Suite name="UiPath Project - Test Automation" total="3" passed="3" failures="0" execution-date="04/04/2022 15:26:19" total-time="00:01:13">
+  <Result>
+    <TestScenario>Login</TestScenario>
+    <TestName>conditions_of_GP</TestName>
+    <Started>04/04/2022 15:26:09</Started>
+    <Ended>04/04/2022 15:26:19</Ended>
+    <Status>test1 failed</Status>
+  </Result>
+  <Result>
+    <TestScenario>Login</TestScenario>
+    <TestName>conditions_of_GP</TestName>
+    <Started>04/04/2022 15:29:10</Started>
+    <Ended>04/04/2022 15:29:23</Ended>
+    <Status>test1 failed</Status>
+  </Result>
+  <Result>
+    <TestScenario>Login</TestScenario>
+    <TestName>conditions_of_GP</TestName>
+    <Started>04/04/2022 16:46:27</Started>
+    <Ended>04/04/2022 16:47:17</Ended>
+    <Status>PASSED</Status>
+  </Result>
+</Test-Suite>
